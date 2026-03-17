@@ -1,7 +1,17 @@
+
+
+## -------------------------------------------------------------------------- ##
+##    Author:    A.M.M Elsayed                                                ##
+##    Email:     ahmedphysica@outlook.com                                     ##
+##    Institute: University of Science and Technology of China                ##
+## -------------------------------------------------------------------------- ##                        
+
+
+
 import ROOT
 import os
 
-delphes_path = "/home/ammelsayed/mg5_v3.5.5/Delphes"
+delphes_path = ".... include pass ...."
 ROOT.gInterpreter.AddIncludePath(delphes_path)
 ROOT.gInterpreter.AddIncludePath(f"{delphes_path}/classes")
 ROOT.gInterpreter.AddIncludePath(f"{delphes_path}/external")
