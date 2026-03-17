@@ -56,7 +56,7 @@ class Configurator:
         """
         self.data["analysis_description"] = description
 
-        def set_luminosity(self, luminosity):
+    def set_luminosity(self, luminosity):
         """
         Set the integrated luminosity for the analysis
         
