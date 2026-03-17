@@ -177,6 +177,6 @@ for mass in range(1000, 2000+50, 50):
     })
 
 
-config.save_config("analysis_config.json")
-print("\nConfiguration saved to 'analysis_config.json'")
+config.save_config("analysis_config_example.json")
+print("\nConfiguration saved to 'analysis_config_example.json'")
 
