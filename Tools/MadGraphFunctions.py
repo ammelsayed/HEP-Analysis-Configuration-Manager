@@ -1,3 +1,13 @@
+
+
+## -------------------------------------------------------------------------- ##
+##    Author:    A.M.M Elsayed                                                ##
+##    Email:     ahmedphysica@outlook.com                                     ##
+##    Institute: University of Science and Technology of China                ##
+## -------------------------------------------------------------------------- ##                        
+
+
+
 import re
 import numpy as np
 import os
